@@ -28,18 +28,11 @@ var Style = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
+    backgroundColor: 'white',
     borderWidth: 0.5,
-    borderColor: 'white'
+    borderColor: 'black'
   },
-  topInputButton: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-    width: 100,
-    height: 100,
-    borderRadius: 100/2,
-    backgroundColor: 'white'
-  },
+
   inputButtonText: {
     fontSize: 22,
     fontWeight: 'bold',
